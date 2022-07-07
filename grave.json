@@ -1,6 +1,6 @@
 {
   "assets": [
-      { "id": "graveModel", "src": "https://github.com/avirads/Deadly/blob/main/grave.glb"}
+      { "id": "graveModel", "src": "https://github.com/avirads/Deadly/blob/main/grave.glb?raw=true"}
   ],
   "entities": [
       { "id":"city", "gltf-model": "#graveModel"}
